@@ -10,7 +10,7 @@ const useInputValue = (initialValue) => {
   };
 };
 
-export default ({ onSubmit }) => {
+export default ({ onSubmit }) => { 
   const { resetValue, ...text } = useInputValue("");
 
   return (

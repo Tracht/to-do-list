@@ -23,7 +23,7 @@ export default () => {
       </ul>
       <hr />
 
-      <button class="btn btn-sm btn-dark">
+      <button class="btn btn-sm btn-dark" >
         Delete all tasks
       </button>
     </div>
